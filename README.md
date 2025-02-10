@@ -4,7 +4,7 @@
   <b>Full Stack Developer | AI Enthusiast</b>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-abdullah-222a59208" target="_blank">
+  <a href="[https://linkedin.com/in/muhammad-abdullah-222a59208](https://www.linkedin.com/in/muhammad-abdullah-22a259208/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://github.com/Abdullah4567" target="_blank">
