@@ -119,6 +119,6 @@ As a **result-driven computer science graduate** from FAST NUCES, I bring over a
 Feel free to reach out for collaboration, consulting, or just to say hi!  
 - 📧 [m.abdullahahmed5@gmail.com](mailto:m.abdullahahmed5@gmail.com)  
 - 🌐 [GitHub](https://github.com/Abdullah4567)  
-- 💼 [LinkedIn](https://linkedin.com/in/muhammad-abdullah-222a59208)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-22a259208/)
 
 ---
