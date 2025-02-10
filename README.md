@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center" style="color: #5D6D7E;">
-  📍 Lahore, Pakistan &nbsp;&bull;&nbsp; ✉️ <a href="mailto:m.abdullahahmed5@gmail.com" style="color: #2E86C1;">m.abdullahahmed5@gmail.com</a> &nbsp;&bull;&nbsp; 📞 +92 321 2844734
+  📍 Lahore, Pakistan &nbsp;&bull;&nbsp; ✉️ <a href="mailto:m.abdullahhameed5@gmail.com" style="color: #2E86C1;">m.abdullahhameed5@gmail.com</a> &nbsp;&bull;&nbsp; 📞 +92 321 2844734
 </p>
 
 ---
@@ -117,7 +117,7 @@ As a **result-driven computer science graduate** from FAST NUCES, I bring over a
 <!-- Contact Section -->
 ### 📫 Let’s Connect
 Feel free to reach out for collaboration, consulting, or just to say hi!  
-- 📧 [m.abdullahahmed5@gmail.com](mailto:m.abdullahahmed5@gmail.com)  
+- 📧 [m.abdullahhameed5@gmail.com](mailto:m.abdullahhameed5@gmail.com)  
 - 🌐 [GitHub](https://github.com/Abdullah4567)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-22a259208/)
 
