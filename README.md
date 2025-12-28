@@ -44,13 +44,6 @@ As a passionate Full Stack Developer and AI/ML Engineer with a strong foundation
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah4567&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah4567&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 <!-- Education Section -->
 ### 🎓 Education
 #### **BS Computer Science**
@@ -159,9 +152,9 @@ An interactive drawing application with object-oriented design principles.
 <!-- Certifications & Achievements Section -->
 ### 📜 Certifications & Achievements
 - 🏆 **Hackathon Winner** – Won a company-wide hackathon by developing innovative AI-powered products *(Oct 2024)*
-- 📚 **Teaching Assistant** – Database Systems, FAST NUCES *(Sep 2022)*
+- 📚 **Teaching Assistant** – Database Systems (2x), FAST NUCES *(Sep 2022)*
 - 🎓 **Dean's List** – Academic Excellence Recognition
-  - Fall 2023 | Spring 2022 | Fall 2021
+  - Spring 2024 | Fall 2023| Spring 2023 | Spring 2022 | Fall 2021
 
 ---
 
