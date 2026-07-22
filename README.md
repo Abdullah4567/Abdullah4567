@@ -63,11 +63,11 @@ CGPA 3.60/4.00 · Dean's List ×5 · Teaching Assistant, Database Systems ×2
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Abdullah4567/Notebook"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Abdullah4567&repo=Notebook&theme=tokyonight&bg_color=16161e&hide_border=true" alt="Notebook — full-stack note-taking app" width="49%"/></a>
-  <a href="https://github.com/Abdullah4567/PointOfSale"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Abdullah4567&repo=PointOfSale&theme=tokyonight&bg_color=16161e&hide_border=true" alt="PointOfSale — MERN retail management" width="49%"/></a>
+  <a href="https://github.com/Abdullah4567/Notebook"><img src="assets/project-notebook.svg" alt="Notebook — full-stack note-taking app" width="49%"/></a>
+  <a href="https://github.com/Abdullah4567/PointOfSale"><img src="assets/project-pos.svg" alt="PointOfSale — MERN retail management" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Abdullah4567/PaintBrush"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Abdullah4567&repo=PaintBrush&theme=tokyonight&bg_color=16161e&hide_border=true" alt="PaintBrush — C++ OOP drawing app" width="49%"/></a>
+  <a href="https://github.com/Abdullah4567/PaintBrush"><img src="assets/project-paintbrush.svg" alt="PaintBrush — C++ OOP drawing app" width="49%"/></a>
 </p>
 
 - **Notebook** — full-stack note-taking app with cloud-hosted infrastructure & real-time updates *(React · Node · MongoDB)*
@@ -77,8 +77,10 @@ CGPA 3.60/4.00 · Dean's List ×5 · Teaching Assistant, Database Systems ×2
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=Abdullah4567&show_icons=true&theme=tokyonight&bg_color=16161e&hide_border=true&border_radius=14" alt="Muhammad Abdullah's GitHub stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=Abdullah4567&theme=tokyonight&background=16161E&hide_border=true&border_radius=14" alt="GitHub streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Abdullah4567&theme=tokyonight&background=16161E&hide_border=true&border_radius=14" alt="GitHub streak" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah4567&theme=tokyo-night&bg_color=16161e&hide_border=true&radius=14" alt="Contribution activity graph" width="100%"/>
 </p>
 
 ## 📜 Certifications & achievements

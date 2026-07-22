@@ -1,0 +1,12 @@
+<svg width="405" height="120" viewBox="0 0 405 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PointOfSale: MERN retail management with inventory, sales tracking, authentication and reporting.">
+  <rect x="0.5" y="0.5" width="404" height="119" rx="14" fill="#16161e" stroke="#2f334d"/>
+  <text x="20" y="34" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#58a6ff">&#128722; PointOfSale</text>
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#a9b1d6">
+    <text x="20" y="60">Retail management system — inventory,</text>
+    <text x="20" y="78">sales tracking, authentication &amp; reporting</text>
+  </g>
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="11" fill="#565f89">
+    <circle cx="24" cy="100" r="4" fill="#f1e05a"/>
+    <text x="34" y="104">MERN — MongoDB · Express · React · Node</text>
+  </g>
+</svg>
