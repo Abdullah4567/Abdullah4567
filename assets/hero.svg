@@ -1,0 +1,39 @@
+<svg width="830" height="150" viewBox="0 0 830 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Abdullah — Full Stack Developer and AI/ML Engineer">
+  <defs>
+    <linearGradient id="tk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="0.6" stop-color="#2c3a6e"/>
+      <stop offset="1" stop-color="#3d59a1"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="830" height="150" rx="14"/></clipPath>
+    <clipPath id="t0"><rect x="319" y="86" height="24" width="0">
+      <animate attributeName="width" values="0;192;192;0;0" keyTimes="0;0.1;0.2167;0.25;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="t1"><rect x="348" y="86" height="24" width="0">
+      <animate attributeName="width" values="0;0;135;135;0;0" keyTimes="0;0.25;0.35;0.4667;0.5;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="t2"><rect x="286" y="86" height="24" width="0">
+      <animate attributeName="width" values="0;0;259;259;0;0" keyTimes="0;0.5;0.6;0.7167;0.75;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="t3"><rect x="295" y="86" height="24" width="0">
+      <animate attributeName="width" values="0;0;240;240;0" keyTimes="0;0.75;0.85;0.9667;1" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="830" height="150" fill="url(#tk)"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -830 0" dur="10s" repeatCount="indefinite"/>
+      <path d="M0,122 C104,102 208,142 312,122 C416,102 520,142 624,122 C728,102 830,142 934,122 C1038,102 1142,142 1246,122 C1350,102 1454,142 1558,122 C1660,104 1660,104 1660,122 L1660,150 L0,150 Z" fill="#0f1018" opacity="0.55"/>
+    </g>
+    <text x="415" y="62" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#ffffff" letter-spacing="0.5">Muhammad Abdullah</text>
+    <g font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="16" fill="#7dcfff">
+      <g clip-path="url(#t0)"><text x="415" y="104" text-anchor="middle">Full Stack Developer</text></g>
+      <g clip-path="url(#t1)"><text x="415" y="104" text-anchor="middle">AI/ML Engineer</text></g>
+      <g clip-path="url(#t2)"><text x="415" y="104" text-anchor="middle">Building Agentic AI Systems</text></g>
+      <g clip-path="url(#t3)"><text x="415" y="104" text-anchor="middle">Voice AI &amp; NLP Enthusiast</text></g>
+    </g>
+    <rect x="413" y="118" width="10" height="3" fill="#bb9af7">
+      <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

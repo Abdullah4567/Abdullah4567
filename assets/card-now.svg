@@ -1,0 +1,9 @@
+<svg width="405" height="130" viewBox="0 0 405 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Now: building an enterprise conversational AI platform, exploring LangGraph and agentic architectures, designing ingestion pipeline v2">
+  <rect x="0.5" y="0.5" width="404" height="129" rx="14" fill="#16161e" stroke="#2f334d"/>
+  <text x="20" y="30" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#565f89">NOW</text>
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#a9b1d6">
+    <text x="20" y="58"><tspan fill="#9ece6a">&#9656;</tspan>  Building an enterprise conversational AI platform</text>
+    <text x="20" y="82"><tspan fill="#bb9af7">&#9656;</tspan>  Exploring LangGraph &amp; agentic architectures</text>
+    <text x="20" y="106"><tspan fill="#7dcfff">&#9656;</tspan>  Designing the next version of an ingestion pipeline</text>
+  </g>
+</svg>

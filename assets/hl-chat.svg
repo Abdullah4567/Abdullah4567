@@ -1,0 +1,9 @@
+<svg width="265" height="110" viewBox="0 0 265 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chat platform: omnichannel onboarding, ingestion pipeline, Redis Streams, token security">
+  <rect x="0.5" y="0.5" width="264" height="109" rx="14" fill="#16161e" stroke="#2f334d"/>
+  <rect x="14" y="1" width="237" height="3" rx="1.5" fill="#9ece6a"/>
+  <text x="18" y="34" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#9ece6a">&#128172; Chat platform</text>
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#a9b1d6">
+    <text x="18" y="62">Omnichannel onboarding, ingestion</text>
+    <text x="18" y="82">pipeline, Redis Streams, security</text>
+  </g>
+</svg>
