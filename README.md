@@ -68,11 +68,13 @@ CGPA 3.60/4.00 · Dean's List ×5 · Teaching Assistant, Database Systems ×2
   <a href="https://github.com/Abdullah4567/PaintBrush"><img src="assets/project-paintbrush.svg" alt="PaintBrush — C++ OOP drawing app" width="32%"/></a>
 </p>
 
-## 📊 GitHub stats
+## 🧭 My journey
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah4567&theme=tokyonight&background=16161E&hide_border=true&border_radius=14" alt="GitHub streak" width="49%"/>
-  <img src="assets/card-numbers.svg" alt="By the numbers: 4+ years building software, 10+ AI features shipped, 3 platforms, 1 hackathon won" width="49%"/>
+  <img src="assets/journey.svg" alt="Career journey: FAST NUCES (2020) → PepsiCo (2022) → Share Mobility (2024, hackathon win) → Eyratech (2025 – now), heading toward agentic AI" width="100%"/>
+</p>
+<p align="center">
+  <img src="assets/card-numbers.svg" alt="By the numbers: 2+ years professional experience, 10+ AI features shipped, 3 AI products contributed to, 1 hackathon won" width="60%"/>
 </p>
 
 ## 📜 Certifications & achievements
