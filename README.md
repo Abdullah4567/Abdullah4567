@@ -63,24 +63,16 @@ CGPA 3.60/4.00 · Dean's List ×5 · Teaching Assistant, Database Systems ×2
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Abdullah4567/Notebook"><img src="assets/project-notebook.svg" alt="Notebook — full-stack note-taking app" width="49%"/></a>
-  <a href="https://github.com/Abdullah4567/PointOfSale"><img src="assets/project-pos.svg" alt="PointOfSale — MERN retail management" width="49%"/></a>
+  <a href="https://github.com/Abdullah4567/Notebook"><img src="assets/project-notebook.svg" alt="Notebook — full-stack note-taking app" width="32%"/></a>
+  <a href="https://github.com/Abdullah4567/PointOfSale"><img src="assets/project-pos.svg" alt="PointOfSale — MERN retail management" width="32%"/></a>
+  <a href="https://github.com/Abdullah4567/PaintBrush"><img src="assets/project-paintbrush.svg" alt="PaintBrush — C++ OOP drawing app" width="32%"/></a>
 </p>
-<p align="center">
-  <a href="https://github.com/Abdullah4567/PaintBrush"><img src="assets/project-paintbrush.svg" alt="PaintBrush — C++ OOP drawing app" width="49%"/></a>
-</p>
-
-- **Notebook** — full-stack note-taking app with cloud-hosted infrastructure & real-time updates *(React · Node · MongoDB)*
-- **PointOfSale** — MERN retail management: inventory, sales tracking, auth & reporting
-- **PaintBrush** — interactive drawing app built on OOP shape-hierarchy design *(C++)*
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah4567&theme=tokyonight&background=16161E&hide_border=true&border_radius=14" alt="GitHub streak" width="60%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah4567&theme=tokyo-night&bg_color=16161e&hide_border=true&radius=14" alt="Contribution activity graph" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Abdullah4567&theme=tokyonight&background=16161E&hide_border=true&border_radius=14" alt="GitHub streak" width="49%"/>
+  <img src="assets/card-numbers.svg" alt="By the numbers: 4+ years building software, 10+ AI features shipped, 3 platforms, 1 hackathon won" width="49%"/>
 </p>
 
 ## 📜 Certifications & achievements
@@ -88,14 +80,6 @@ CGPA 3.60/4.00 · Dean's List ×5 · Teaching Assistant, Database Systems ×2
 - 🏆 **Hackathon winner** — company-wide, two AI-powered products *(Oct 2024)*
 - 📚 **Teaching Assistant** — Database Systems ×2, FAST NUCES
 - 🎓 **Dean's List ×5** — Spring 2024 · Fall 2023 · Spring 2023 · Spring 2022 · Fall 2021
-
-## 🐍 Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah4567/Abdullah4567/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah4567/Abdullah4567/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Abdullah4567/Abdullah4567/output/github-snake.svg" alt="Contribution snake animation" width="100%"/>
-</picture>
 
 ---
 

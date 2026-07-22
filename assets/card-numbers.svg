@@ -1,0 +1,10 @@
+<svg width="405" height="158" viewBox="0 0 405 158" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="By the numbers: 4+ years building software, 10+ AI features shipped, 3 platforms contributed to, 1 hackathon won.">
+  <rect x="0.5" y="0.5" width="404" height="157" rx="14" fill="#16161e" stroke="#2f334d"/>
+  <text x="20" y="32" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#565f89">BY THE NUMBERS</text>
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif">
+    <text x="20" y="82"><tspan font-size="24" font-weight="600" fill="#7dcfff">4+</tspan><tspan font-size="11" fill="#565f89" dx="8">years building software</tspan></text>
+    <text x="212" y="82"><tspan font-size="24" font-weight="600" fill="#9ece6a">10+</tspan><tspan font-size="11" fill="#565f89" dx="8">AI features shipped</tspan></text>
+    <text x="20" y="130"><tspan font-size="24" font-weight="600" fill="#bb9af7">3</tspan><tspan font-size="11" fill="#565f89" dx="8">platforms contributed to</tspan></text>
+    <text x="212" y="130"><tspan font-size="24" font-weight="600" fill="#e0af68">1</tspan><tspan font-size="11" fill="#565f89" dx="8">hackathon won &#127942;</tspan></text>
+  </g>
+</svg>

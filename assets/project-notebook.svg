@@ -1,12 +1,21 @@
-<svg width="405" height="120" viewBox="0 0 405 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Notebook: full-stack note-taking app with cloud-hosted infrastructure and real-time updates. React, Node, MongoDB.">
-  <rect x="0.5" y="0.5" width="404" height="119" rx="14" fill="#16161e" stroke="#2f334d"/>
-  <text x="20" y="34" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#58a6ff">&#128214; Notebook</text>
+<svg width="405" height="135" viewBox="0 0 405 135" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Notebook: full-stack note-taking app with cloud-hosted infrastructure and real-time updates. React, Node, MongoDB.">
+  <rect x="0.5" y="0.5" width="404" height="134" rx="14" fill="#16161e" stroke="#2f334d"/>
+  <rect x="14" y="1" width="377" height="3" rx="1.5" fill="#7dcfff"/>
+  <text x="20" y="36" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#7dcfff">&#128214; Notebook</text>
+  <text x="385" y="36" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#565f89">view repo &#8599;</text>
   <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#a9b1d6">
-    <text x="20" y="60">Full-stack note-taking app with cloud-hosted</text>
-    <text x="20" y="78">infrastructure &amp; real-time updates</text>
+    <text x="20" y="62">Full-stack note-taking app with cloud-hosted</text>
+    <text x="20" y="80">infrastructure &amp; real-time updates</text>
   </g>
-  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="11" fill="#565f89">
-    <circle cx="24" cy="100" r="4" fill="#f1e05a"/>
-    <text x="34" y="104">JavaScript · React · Node · MongoDB</text>
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="10.5">
+    <rect x="20" y="96" width="60" height="22" rx="11" fill="#242938"/>
+    <circle cx="33" cy="107" r="3.5" fill="#61dafb"/>
+    <text x="41" y="111" fill="#a9b1d6">React</text>
+    <rect x="86" y="96" width="56" height="22" rx="11" fill="#242938"/>
+    <circle cx="99" cy="107" r="3.5" fill="#9ece6a"/>
+    <text x="107" y="111" fill="#a9b1d6">Node</text>
+    <rect x="148" y="96" width="76" height="22" rx="11" fill="#242938"/>
+    <circle cx="161" cy="107" r="3.5" fill="#7aa2f7"/>
+    <text x="169" y="111" fill="#a9b1d6">MongoDB</text>
   </g>
 </svg>
